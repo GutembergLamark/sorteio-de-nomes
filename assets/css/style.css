@@ -126,6 +126,7 @@ footer p{
     justify-content: center;
     align-items: center;
     height: 100%;
+    padding-left: 70px;
 }
 .resultado span{
     float: right;
@@ -171,6 +172,9 @@ footer p{
     footer p{
         font-size: 14px;
     }
+    .resultado p{
+        font-size: 25px;
+    }
 
 }
 
@@ -198,6 +202,9 @@ footer p{
     }
     footer p{
         font-size: 12px;
+    }
+    .resultado p{
+        font-size: 22px;
     }
 
 }
